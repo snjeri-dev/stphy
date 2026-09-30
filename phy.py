@@ -1,2 +1,2 @@
-nails=("stiletos ,ballerina")
+nails=("stiletos, ballerina cappuchina")
 print(nails)
